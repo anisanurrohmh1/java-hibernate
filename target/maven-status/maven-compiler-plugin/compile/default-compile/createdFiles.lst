@@ -1,0 +1,7 @@
+ToolsQA\App.class
+com\projek\config\HibernateConfiguration.class
+com\projek\dao\MahasiswaDao.class
+com\projek\repository\CrudRepository.class
+com\projek\entity\Mahasiswa$MahasiswaBuilder.class
+com\projek\entity\Mahasiswa.class
+com\projek\repository\ReadRepository.class
